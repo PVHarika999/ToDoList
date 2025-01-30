@@ -17,4 +17,5 @@ A simple ToDoList app built with HTML, CSS, and JavaScript. This app allows user
 
 ## Demo
 
-You can view a live demo of the app here: [gettodoapp.ccbp.tech]
+You can view a live demo of the app here: [gettodoapp.ccbp.tech] <br>
+![Image](https://github.com/user-attachments/assets/019e5291-1874-4f2a-8d7e-9e23f206e66d)
